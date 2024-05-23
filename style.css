@@ -866,4 +866,45 @@
   padding: 0 30px;
   width: 100%;
 }
-
+.container h1 {
+    position: relative;
+    padding-bottom: 5px;
+    margin-bottom: 35px;
+}
+.container h1 span {
+    color: #00C6A9;
+}
+#user {
+    opacity: 0;
+}
+.container form {
+    padding: 35px 45px;
+    -webkit-box-shadow: 0 0 15px 10px rgba(0, 0, 0, 0.07);
+            box-shadow: 0 0 15px 10px rgba(0, 0, 0, 0.07);
+  }
+.box-1 {
+    display: flex;
+    justify-content: space-around;
+}
+label {
+    display: block;
+}
+input,select {
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+}
+button {
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: azure;
+}
+button:hover {
+    background-color: azure;
+    color: black;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid black;
+}
