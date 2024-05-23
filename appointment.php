@@ -9,7 +9,7 @@
             in iste officiis commodi quidem hic quas.</p>
         </div>
 
-        <form action="forms/appointment.php" method="post" role="form" class="php-email-form" data-aos="fade-up"
+        <form action="appointment.php" method="post" role="form" class="php-email-form" data-aos="fade-up"
           data-aos-delay="100">
           <div class="row">
             <div class="col-md-4 form-group">
