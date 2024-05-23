@@ -4,7 +4,6 @@
   <?php include 'featured_services.php'; ?>
   <?php include 'cta.php'; ?>
   <?php include 'services.php'; ?>
-  <?php include 'appointment.php'; ?>
   <?php include 'departaments.php'; ?>
   <?php include 'testimonials.php'; ?>
   <?php include 'doctors.php'; ?>
