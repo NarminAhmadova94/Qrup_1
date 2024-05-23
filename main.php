@@ -6,6 +6,7 @@
   <?php include 'services.php'; ?>
   <?php include 'departaments.php'; ?>
   <?php include 'testimonials.php'; ?>
+  <?php include 'book.php';?>
   <?php include 'doctors.php'; ?>
   <?php include 'footer.php';?>
   <?php include 'functions.php';?>
